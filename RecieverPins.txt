@@ -1,0 +1,7 @@
+Device    Arduino Pin   Reciever Pin   Color Used
+Servo         10             N/A         blue
+Motor         11             N/A	 white
+Manual/Auto   13             4           orange
+Servo Rec     12             1           purple
+Motor Rec     9              2           brown
+Mode          5              3           green
